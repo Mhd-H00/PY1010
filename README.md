@@ -20,4 +20,5 @@ Svakheter av RPA selenium og webderiver. Det er en del svakheter i RPA for eksem
 1- selenium, webdriver og IDE må oppdateres.
 2- Nettleseren må også oppdateres.
 3- Alle oppdateringer ikke altid er kompatible.
+4- Mye ventetider må brukes i koden. Hvis ansatte ønsker å starte koden selv må ventetid utvides hvis internett er ikke raskt nok.
 De er det mest viktig som jeg har lært. I frarmtiden jeg ville automatisere med API. API er raskere og mer kompatibl. Det er mulighet også at den opprette en sak hvis det blir feil med API. API er skrevet til P360 skrevet med JavaScript. Jeg lastet opp film ev hva RPA gjorde, og PY filen. Jeg har brukt VScode IDE, brukt AI også. Tusen takk for dere alle dette var ett lærerikt år for meg.
